@@ -9,5 +9,5 @@ this repo is for test
 - python3 cve-xxxx-xxxxx.py -u url
 
 ## POC
-![POC](./imgs/)
+![POC](./imgs/buckets.png)
 
